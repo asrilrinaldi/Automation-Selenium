@@ -17,7 +17,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        String strFileNameDriver = "chromedriver114.exe";
+        String strFileNameDriver = "chromedriver118.exe";
         WebDriver webdriver = null;
 
         /*
