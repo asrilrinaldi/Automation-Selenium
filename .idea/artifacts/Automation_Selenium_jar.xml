@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Automation-Selenium:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Automation_Selenium_jar</output-path>
+    <root id="archive" name="Automation-Selenium.jar">
+      <element id="module-output" name="Automation-Selenium" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/client-combined-3.141.59.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/okhttp-3.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/client-combined-3.141.591.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/byte-buddy-1.8.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/client-combined-3.141.59-sources1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/commons-exec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/guava-25.0-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/okio-1.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/selenium-shutterbug-0.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/selenium-support-3.141.59.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-java-3.141.59/client-combined-3.141.59-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
